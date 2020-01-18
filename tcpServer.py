@@ -62,8 +62,8 @@ def accept_conns():
 
 def start_shell():
     # In ur face marvel fanboys/girls  X)
-    cmd = input('thanus> ')
     while True:
+        cmd = input('thanus> ')
         if cmd == "list":
             list_conns()
         elif "select" in cmd:
@@ -73,7 +73,6 @@ def start_shell():
                 send_cmds(conn)
         else:
             print("Illegal Command")
-            break
 
 
 def list_conns():

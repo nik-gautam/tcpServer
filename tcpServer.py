@@ -73,6 +73,7 @@ def start_shell():
                 send_cmds(conn)
         else:
             print("Illegal Command")
+            break
 
 
 def list_conns():

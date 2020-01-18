@@ -4,7 +4,7 @@ import subprocess
 
 
 def client():
-    host = ""
+    host = "192.168.1.7"
     port = 6969
 
     s = socket.socket()

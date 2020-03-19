@@ -19,6 +19,4 @@ python3 tcpClient.py #on the client computer
 
 3> Happy Surfing!!
 
-## Only one FAQ
-No... It cannot host your portfolio.
 

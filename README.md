@@ -2,9 +2,7 @@
 
 ---
 
-So, I was free...
 
-then I started making my own internet
 
 
 ## How To

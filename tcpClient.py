@@ -5,7 +5,7 @@ import subprocess
 
 def client():
     host = "192.168.1.7"
-    port = 6969
+    port = 5000
 
     s = socket.socket()
     s.connect((host, port))
